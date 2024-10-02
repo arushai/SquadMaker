@@ -7,4 +7,4 @@ SquadMaker is a user-friendly tool designed to streamline the process of creatin
 
 ## How to run
 1. Install dependencies using `pip install -r requirements.txt`.
-2. Run `python app.py` to start the web server locally.
+2. Run `python code/app.py` to start the web server locally.
